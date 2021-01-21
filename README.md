@@ -20,3 +20,9 @@ El resultado de la impresión con una microbit montada lo vemos a continuación:
 
 # Fuente
 El diseño se basa en el realizado por tatan que está disponible en [Thingiverse/thing:3465781](https://www.thingiverse.com/thing:3465781)
+
+# Licencias
+
+* [MIT](https://github.com/clubroboticagranada/Proteccion-para-microbit-V1/blob/main/LICENSE)
+
+* <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
