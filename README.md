@@ -1,7 +1,7 @@
 # Proteccion-para-microbit-V1
 Carcasa de protección para la versión 1 de la tarjeta micro:bit basada en un diseño de [tatan](https://www.thingiverse.com/tatan/designs).
 
-En los diferentes repositorios tenemos acceso a los diferentes archivos del proyecto, desde la fuente en FreeCAD hasta los stl.
+En los diferentes directorios del repositorio tenemos acceso a los diferentes archivos del proyecto, desde la fuente en FreeCAD hasta los stl.
 
 La base tiene el siguiente aspecto:
 
